@@ -11,8 +11,15 @@ Human Normal Lymphocytes - control
 The main script is done by me, all the other vibe-coding.
 For running on your cells, you need to install the RStudio interface.
 and language R.
+
+R lang 
+
 https://www.r-project.org/
+
+RStudio
+
 https://posit.co/downloads
+
 
 Just replace data in vectors of the dataframe with your numbers normalized by OD control—MTT test or methylene blue, save, run, and enjoy.
 
